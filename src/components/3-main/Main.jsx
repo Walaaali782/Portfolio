@@ -16,13 +16,25 @@ const myprojects = [
 {projecttitle :"Template 3zero" ,catogray :"css" ,imapath : "./3.jpg" , iconlink: "https://walaaali782.github.io/temple23/" , icongithub :"https://github.com/Walaaali782/temple23"},
 
 
-{projecttitle :"Weather" ,catogray :"react" ,imapath : "./s5.png", iconlink: "https://walaaali782.github.io/Weather/" , icongithub :"https://github.com/Walaaali782/Weather"},
+{projecttitle :"Weather" ,catogray :"react" ,imapath : "./s5.png", iconlink: "weather-eight-green.vercel.app" , icongithub :"https://github.com/Walaaali782/Weather"},
 
-{projecttitle :"Portfolio" ,catogray :"react" , imapath : "./1.jpg", iconlink: "https://walaaali782.github.io/portfolio/" , icongithub :"https://github.com/Walaaali782/portfolio"},
+{projecttitle :"Portfolio" ,catogray :"react" , imapath : "./1.jpg", iconlink: "https://portfolio-pkc4r8285-walaas-projects-a19351bf.vercel.app/" , icongithub :"https://github.com/Walaaali782/portfolio"},
 
 {projecttitle :"Roc" ,catogray :"css" ,imapath : "./44.jpg" , iconlink: "https://walaaali782.github.io/Roc-tel/" , icongithub :"https://github.com/Walaaali782/Roc-tel"},
 
 {projecttitle :"ToDo List" ,catogray :"java" ,imapath : "./2.jpg" , iconlink: "https://walaaali782.github.io/bransh/" , icongithub :"https://github.com/Walaaali782/bransh"},
+
+
+
+
+
+
+{projecttitle :"Films" ,catogray :"react" , imapath : "./photo_2024-11-09_22-24-17.jpg", iconlink: "https://day6-snowy.vercel.app/" , icongithub :"https://github.com/Walaaali782/Day6"},
+
+{projecttitle :"Perfum" ,catogray :"react" ,imapath : "./111.PNG" , iconlink: "https://perfum-wine.vercel.app/" , icongithub :"https://github.com/Walaaali782/perfum"},
+
+{projecttitle :"E-commerce" ,catogray :"react" ,imapath : "./113.PNG" , iconlink: "https://e-commerce-pi-gold.vercel.app/" , icongithub :"https://github.com/Walaaali782/E-commerce"},
+{projecttitle :"Json-server-CRUD-" ,catogray :"react" ,imapath : "./112.jpg" , iconlink: "https://github.com/Walaaali782/Json-server-CRUD-" , icongithub :"https://github.com/Walaaali782/Json-server-CRUD-"},
 
 ]
 
