@@ -7,11 +7,5 @@ export default defineConfig({
     alias: {
       'lottie-react': 'lottie-react'
     }
-  },
-  build: {
-    rollupOptions: {
-      external: ['lottie-react']
-    }
   }
 })
-
