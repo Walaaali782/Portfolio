@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      'lottie-react': require.resolve('lottie-react')
+      'lottie-react': 'lottie-react'
     }
   },
   build: {
@@ -14,4 +14,3 @@ export default defineConfig({
     }
   }
 })
-
